@@ -1,2 +1,2 @@
 # Cinema
-Feito em conjunto com leticia-feldhaus
+Site para estudos feito em conjunto com leticia-feldhaus
